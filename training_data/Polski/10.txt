@@ -1,0 +1,12 @@
+Inhibitorem czynnika IX jest antytrombina[2].
+
+Ekspresja czynnika IX wzrasta wraz z wiekiem u ludzi i myszy. W badaniach na modelach mysich wykazano, że fenotyp mutacji w obrębie promotora czynnika IX jest zależny od wieku[4].
+
+Struktura białka
+Czynniki VII, IX i X odgrywają kluczową rolę w krzepnięciu krwi oraz charakteryzują się podobną strukturą białkową[5]. Czynnik IX jest białkiem zbudowanym z 4 domen. Są to: domena Gla, dwie tandemowe kopie domeny podobnej do EGF i C-końcowa domena peptydazy trypsynopodobnej, która wykonuje cięcie katalityczne.
+
+Wykazano, że N-końcowa domena podobna do EGF odpowiada za wiązanie z czynnikiem tkankowym[5]. Wilkinson i wsp. stwierdzili, że pozostałe 88–109 aminokwasów drugiej domeny podobnej do EGF pośredniczy w wiązaniu płytek krwi oraz w przyłączaniu do kompleksu aktywującego czynnik X[6].
+
+Struktura wszystkich czterech domen została poznana. Strukturę dwóch domen podobnych do EGF oraz domeny trypsynopodobnej określono na podstawie białka świni[7]. Struktura domeny Gla, która jest odpowiedzialna za zależne od jonów wapnia wiązanie fosfolipidów została określona za pomocą NMR[8].
+
+Zostało poznanych kilka struktur "superaktywnych" mutantów[9], które potwierdzają, że aktywacja czynnika IX zachodzi dzięki innymi białkom zaangażowanym w kaskadę krzepnięcia.
